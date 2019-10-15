@@ -15,7 +15,7 @@ None
 Note : The code requires Nodejs 10.00 version or higher
 
 1.Clone the repo using 
-  git clone https://github.com/HimanshuChourasia/ITCS_6112_Project.git
+  git clone https://github.com/Souravroych/Enterprise-Pharma-Application.git
 2. Use the terminal/ command line and type in the following commands.
   cd ~
   cd your_folder_location
@@ -52,9 +52,11 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
 
 ## Authors
 
+* **Sourav Roy Chaudhary** *Initial work* - (Sourav Roy Choudhury)(https://github.com/Souravroych)
 * **Himanshu Chourasia** - *Initial work* - [HimanshuChourasia](https://github.com/HimanshuChourasia)
 * **Ragini Ragnathan** - *Initial work* - 
-* **Sourav Roy Chaudhary *Initial work* - 
+
+
 
 
 ## License
